@@ -34,7 +34,7 @@ header .navbar {
 }
 
 .navbar-pf .navbar-utility > li > a {
-    color: #fff !important;
+    color: black !important;
     padding-bottom: 12px;
     padding-top: 11px;
     border-left: medium none;
